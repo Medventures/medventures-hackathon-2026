@@ -1,12 +1,57 @@
 # MedVentures Hackathon 2026
 
-Инструкции по сдаче проектов хакатона.
+Список репозиториев команд и инструкции по сдаче проектов хакатона.
 
 ## Как устроены репозитории
 
 Для команд созданы **40 отдельных публичных репозиториев** в аккаунте `Medventures` с названиями от [`Haqaton-001`](https://github.com/Medventures/Haqaton-001) до [`Haqaton-040`](https://github.com/Medventures/Haqaton-040). Первые 30 репозиториев предназначены для команд, остальные 10 оставлены в резерве. Исходный код размещается в репозитории команды, а не здесь.
 
 Просматривать публичные репозитории может любой человек по ссылке. Для прямой загрузки кода организаторы приглашают участников в репозиторий их команды по GitHub-логину или email, привязанному к GitHub. Без приглашения участник может предложить изменения через fork и pull request.
+
+## Репозитории команд
+
+| Номер | Репозиторий | Назначение |
+| --- | --- | --- |
+| 001 | [Haqaton-001](https://github.com/Medventures/Haqaton-001) | Команда |
+| 002 | [Haqaton-002](https://github.com/Medventures/Haqaton-002) | Команда |
+| 003 | [Haqaton-003](https://github.com/Medventures/Haqaton-003) | Команда |
+| 004 | [Haqaton-004](https://github.com/Medventures/Haqaton-004) | Команда |
+| 005 | [Haqaton-005](https://github.com/Medventures/Haqaton-005) | Команда |
+| 006 | [Haqaton-006](https://github.com/Medventures/Haqaton-006) | Команда |
+| 007 | [Haqaton-007](https://github.com/Medventures/Haqaton-007) | Команда |
+| 008 | [Haqaton-008](https://github.com/Medventures/Haqaton-008) | Команда |
+| 009 | [Haqaton-009](https://github.com/Medventures/Haqaton-009) | Команда |
+| 010 | [Haqaton-010](https://github.com/Medventures/Haqaton-010) | Команда |
+| 011 | [Haqaton-011](https://github.com/Medventures/Haqaton-011) | Команда |
+| 012 | [Haqaton-012](https://github.com/Medventures/Haqaton-012) | Команда |
+| 013 | [Haqaton-013](https://github.com/Medventures/Haqaton-013) | Команда |
+| 014 | [Haqaton-014](https://github.com/Medventures/Haqaton-014) | Команда |
+| 015 | [Haqaton-015](https://github.com/Medventures/Haqaton-015) | Команда |
+| 016 | [Haqaton-016](https://github.com/Medventures/Haqaton-016) | Команда |
+| 017 | [Haqaton-017](https://github.com/Medventures/Haqaton-017) | Команда |
+| 018 | [Haqaton-018](https://github.com/Medventures/Haqaton-018) | Команда |
+| 019 | [Haqaton-019](https://github.com/Medventures/Haqaton-019) | Команда |
+| 020 | [Haqaton-020](https://github.com/Medventures/Haqaton-020) | Команда |
+| 021 | [Haqaton-021](https://github.com/Medventures/Haqaton-021) | Команда |
+| 022 | [Haqaton-022](https://github.com/Medventures/Haqaton-022) | Команда |
+| 023 | [Haqaton-023](https://github.com/Medventures/Haqaton-023) | Команда |
+| 024 | [Haqaton-024](https://github.com/Medventures/Haqaton-024) | Команда |
+| 025 | [Haqaton-025](https://github.com/Medventures/Haqaton-025) | Команда |
+| 026 | [Haqaton-026](https://github.com/Medventures/Haqaton-026) | Команда |
+| 027 | [Haqaton-027](https://github.com/Medventures/Haqaton-027) | Команда |
+| 028 | [Haqaton-028](https://github.com/Medventures/Haqaton-028) | Команда |
+| 029 | [Haqaton-029](https://github.com/Medventures/Haqaton-029) | Команда |
+| 030 | [Haqaton-030](https://github.com/Medventures/Haqaton-030) | Команда |
+| 031 | [Haqaton-031](https://github.com/Medventures/Haqaton-031) | Резерв |
+| 032 | [Haqaton-032](https://github.com/Medventures/Haqaton-032) | Резерв |
+| 033 | [Haqaton-033](https://github.com/Medventures/Haqaton-033) | Резерв |
+| 034 | [Haqaton-034](https://github.com/Medventures/Haqaton-034) | Резерв |
+| 035 | [Haqaton-035](https://github.com/Medventures/Haqaton-035) | Резерв |
+| 036 | [Haqaton-036](https://github.com/Medventures/Haqaton-036) | Резерв |
+| 037 | [Haqaton-037](https://github.com/Medventures/Haqaton-037) | Резерв |
+| 038 | [Haqaton-038](https://github.com/Medventures/Haqaton-038) | Резерв |
+| 039 | [Haqaton-039](https://github.com/Medventures/Haqaton-039) | Резерв |
+| 040 | [Haqaton-040](https://github.com/Medventures/Haqaton-040) | Резерв |
 
 ## Для участников
 
@@ -19,4 +64,4 @@
 
 ## Для организаторов
 
-Назначьте каждой команде один из уже созданных репозиториев и добавьте участников этой команды для прямой загрузки кода. [Шаблон команды](https://github.com/Medventures/hack-team-template) сохранён для дополнительных репозиториев. После хакатона репозитории можно архивировать.
+Назначьте каждой команде один из уже созданных репозиториев и добавьте участников этой команды для прямой загрузки кода. Для описания проекта используйте [шаблон README](TEAM_README_TEMPLATE.md). После хакатона репозитории можно архивировать.
