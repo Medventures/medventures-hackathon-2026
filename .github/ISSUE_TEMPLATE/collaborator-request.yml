@@ -1,0 +1,31 @@
+name: Запрос доступа коллаборатора
+description: Запросить право загружать код в любой командный репозиторий Haqaton
+title: "[Доступ] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Запросы видны всем. Указывайте только GitHub-логин и название команды; не публикуйте email, пароли или коды подтверждения. Организатор проверит участие и отправит приглашение в выбранные репозитории.
+  - type: input
+    id: github-login
+    attributes:
+      label: GitHub-логин
+      description: Логин аккаунта, которому нужен доступ
+      placeholder: example-user
+    validations:
+      required: true
+  - type: input
+    id: team
+    attributes:
+      label: Команда
+      placeholder: Название или номер команды
+    validations:
+      required: true
+  - type: textarea
+    id: repositories
+    attributes:
+      label: Номера репозиториев
+      description: Перечислите любые нужные репозитории от Haqaton-001 до Haqaton-050
+      placeholder: Haqaton-001, Haqaton-032
+    validations:
+      required: true
