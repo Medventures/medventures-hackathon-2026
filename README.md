@@ -4,7 +4,7 @@
 
 ## Как устроены репозитории
 
-Для команд созданы **40 отдельных публичных репозиториев** в аккаунте `Medventures` с названиями от [`Haqaton-001`](https://github.com/Medventures/Haqaton-001) до [`Haqaton-040`](https://github.com/Medventures/Haqaton-040). Первые 30 репозиториев предназначены для команд, остальные 10 оставлены в резерве. Исходный код размещается в репозитории команды, а не здесь.
+Для команд созданы **50 отдельных публичных репозиториев** в аккаунте `Medventures` с названиями от [`Haqaton-001`](https://github.com/Medventures/Haqaton-001) до [`Haqaton-050`](https://github.com/Medventures/Haqaton-050). Первые 30 репозиториев предназначены для команд, остальные 20 оставлены в резерве. Исходный код размещается в репозитории команды, а не здесь.
 
 Просматривать публичные репозитории может любой человек по ссылке. Для прямой загрузки кода организаторы приглашают участников в репозиторий их команды по GitHub-логину или email, привязанному к GitHub. Без приглашения участник может предложить изменения через fork и pull request.
 
@@ -52,6 +52,16 @@
 | 038 | [Haqaton-038](https://github.com/Medventures/Haqaton-038) | Резерв |
 | 039 | [Haqaton-039](https://github.com/Medventures/Haqaton-039) | Резерв |
 | 040 | [Haqaton-040](https://github.com/Medventures/Haqaton-040) | Резерв |
+| 041 | [Haqaton-041](https://github.com/Medventures/Haqaton-041) | Резерв |
+| 042 | [Haqaton-042](https://github.com/Medventures/Haqaton-042) | Резерв |
+| 043 | [Haqaton-043](https://github.com/Medventures/Haqaton-043) | Резерв |
+| 044 | [Haqaton-044](https://github.com/Medventures/Haqaton-044) | Резерв |
+| 045 | [Haqaton-045](https://github.com/Medventures/Haqaton-045) | Резерв |
+| 046 | [Haqaton-046](https://github.com/Medventures/Haqaton-046) | Резерв |
+| 047 | [Haqaton-047](https://github.com/Medventures/Haqaton-047) | Резерв |
+| 048 | [Haqaton-048](https://github.com/Medventures/Haqaton-048) | Резерв |
+| 049 | [Haqaton-049](https://github.com/Medventures/Haqaton-049) | Резерв |
+| 050 | [Haqaton-050](https://github.com/Medventures/Haqaton-050) | Резерв |
 
 ## Для участников
 
